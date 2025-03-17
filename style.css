@@ -105,10 +105,6 @@ button {
  
 .card {
 
-    border: #3882F6;
-    border-width: 5px;
-    border-radius: 15px;
-    border-style: solid;
     width: 180px;
     height: 180px;
     margin: 10px;
